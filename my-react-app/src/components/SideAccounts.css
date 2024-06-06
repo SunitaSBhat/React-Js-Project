@@ -1,0 +1,89 @@
+.sell{
+    height: 85px;
+    background-color: #88C2BB;
+    color: white;
+    width: 300px;
+    border-radius: 12px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 21px 12px;
+    position: fixed;
+}
+.options{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    margin-top: 113px;
+}
+.options p{
+    margin:0px 12px;
+}
+.MainBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: 56px;
+    margin-left: -76px;
+   
+}
+#smallImg{
+    width:48px;
+     height: 48px;
+}
+.Maindiv{
+    width:244px;
+    height:126px;
+    padding:12px 12px;
+    margin:12px 12px;
+}
+#Maindiv{
+background-image: url("./firstBackground.png");
+}
+#Maindi{
+    background-image: url("secondBackground.png");
+}
+#Maind{
+    background-image: url("thirdBakcground.png");
+}
+#Main{
+    background-image: url("lastBackground.png");
+}
+#Mai{
+    background-image: url("OutOfBoundary.png");
+}
+.iam{
+    height: 700px;
+    overflow: hidden;
+    position: fixed;
+    margin-top: 135px;
+   
+}
+li {
+    display: flex;
+    flex-direction: row;
+}
+li img{
+    margin: 6px 12px;
+    width: 16px;
+    height: 16.89px;
+}
+#hey{
+    margin-top:-16px;
+}
+.middle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+}
+.footer p{
+    margin: 856px 12px;
+}

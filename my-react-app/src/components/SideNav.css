@@ -1,0 +1,44 @@
+body{
+    background-color: #F5F5F5;
+}
+#co1{
+    margin-right:343px;
+}
+.Logo{
+    background-color: white;
+    width: 306px;
+    height: 65px;
+    margin: 23px 12px;
+    border-radius: 12px 12px;
+    padding: 17px 21px;
+    position: fixed;
+}
+.belowNav li{
+    list-style: none;
+    margin: 20px 60px;
+    position: relative;
+    left: -70px;
+    font-size: 20px;
+   
+}
+#logout{
+    margin-top:125px;
+}
+.belowNav{
+    background-color: white;
+    margin: 142px 12px;
+    border-radius: 12px 12px;
+    width: 341px;
+    height: 573px;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
+.lastWords{
+    display: flex;
+    flex-direction: row;
+    position:fixed;
+}
+.lastWords p{
+    margin: 743px 12px;
+}

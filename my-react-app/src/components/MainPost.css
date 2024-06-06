@@ -1,0 +1,140 @@
+.search{
+    background-color: white;
+    width: 630px;
+    height: 60px;
+    margin: 12px 12px;
+    border-radius: 12px 12px;
+    padding: 17px 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position:fixed;
+}
+#hi{
+    margin-top:17px;
+}
+.searchhere{
+    display: flex;
+    flex-direction: row;
+    margin-right:345px;
+}
+.filters{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.filters p{
+    margin-left:12px;
+}
+.search input{
+    border: 1px solid white;
+    margin-left:12px;
+}
+/* posts styling starts here */
+.posts{
+    background-color: white;
+    width: 620px;
+    height: 559px;
+    margin: 12px 12px;
+    border-radius: 12px 12px;
+    padding: 17px 5px;
+    margin-top:123px;
+}
+hr{
+    margin-top:23px;
+}
+.userInfo{
+    display: flex;
+    flex-direction: row;
+}
+.userName{
+    margin-left: 35px;
+    position: relative;
+    top: -28px;
+    margin-right: 364px;
+    display: flex;
+    flex-direction: column;
+}
+
+.middleOne{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+.userName p{
+  margin:-14px 0px;
+}
+#post{
+    width:560px;
+    height: 306px;
+}
+.likes, .comments, .share{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin:0px 12px;
+}
+#user{
+    width:48px;
+    height:48px;
+}
+#heart{
+    position: relative;
+    top: -243px;
+    left: -46px;
+    color: white;
+}
+.reactions{
+    display: flex;
+    flex-direction: row;
+}
+.yes{
+    margin:0px 12px;
+}
+/* smallpost styling */
+#sea{
+width:263px;
+height:180px;
+border-radius: 12px 12px;
+}
+.remain{
+    background-color: white;
+    width: 239px;
+    height: 90px;
+    border-radius: 0px 12px;
+    margin-top: -8px;
+    padding: 12px 12px;
+}
+.smallPost{
+    margin-left:23px;
+   
+}
+.remain p{
+    font-size: 13px;
+}
+.remain h2{
+    font-size: 24px;
+    font-weight: bold;
+}
+.ratings{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.stars{
+    margin-left:59px;
+}
+#st{
+  color:yellow;
+  width: 18px;
+}
+.MainSmall{
+    display: flex;
+    flex-direction: row;
+    width:652px;
+    overflow:hidden;
+}
